@@ -1,61 +1,19 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p1> ROTAS </P1>
+<img width="995" height="653" alt="image" src="https://github.com/user-attachments/assets/416c63a1-164e-4f5b-ae38-accca1d3757d" />
+<img width="1253" height="671" alt="image" src="https://github.com/user-attachments/assets/c66bb76c-7778-4ebd-b7ff-ea6154c7a295" />
+<P1> MIDDLEWARE CONTROLANDO AS ROTAS </P1>
+<img width="1302" height="669" alt="image" src="https://github.com/user-attachments/assets/e504c9b5-5abb-4368-a0dd-6a01b823691f" />
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<P2>FUNCIONAMENTO DO SITE </P2>
+<img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/51cfec03-c877-4056-928f-e6c3658da9e7" /><img width="1338" height="671" alt="image" src="https://github.com/user-attachments/assets/faa33ab1-501f-42a5-a07b-cf6201e0824d" />
+<img width="1352" height="657" alt="image" src="https://github.com/user-attachments/assets/e74f9b52-bd66-42cd-887d-4695d12413c5" />
+<img width="1336" height="659" alt="image" src="https://github.com/user-attachments/assets/65e903e3-faea-4e84-ac3e-1c982dd31475" />
+<img width="1355" height="671" alt="image" src="https://github.com/user-attachments/assets/ca36224b-b647-4543-bc33-08f9eb1a3c69" />
+<img width="1226" height="646" alt="image" src="https://github.com/user-attachments/assets/8277c279-c333-4856-a027-a1072b306170" />
+<img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/133d8d78-d3c1-4363-88f8-a5cc098b3df0" />
+<img width="1347" height="588" alt="image" src="https://github.com/user-attachments/assets/cc91ac3c-c060-4156-9f36-a284db7df9b4" />
+<img width="1332" height="590" alt="image" src="https://github.com/user-attachments/assets/d49a418f-0f6b-4796-a2ca-466b9160a293" />
+<img width="1211" height="614" alt="image" src="https://github.com/user-attachments/assets/0d6e0ef1-a02f-4d17-aeb2-9284e491ef30" />
+<img width="1332" height="536" alt="image" src="https://github.com/user-attachments/assets/68dcaf78-0dbf-4efb-ab9c-53f426a45ca0" />
+<img width="1227" height="664" alt="image" src="https://github.com/user-attachments/assets/abd53925-622f-4b13-9d2d-0819b0da2a41" />
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
