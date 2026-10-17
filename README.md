@@ -1,12 +1,14 @@
 
 <strong><P1>BANCO DE DADOS</P1></strong><br><BR>
 <img width="995" height="653" alt="image" src="https://github.com/user-attachments/assets/416c63a1-164e-4f5b-ae38-accca1d3757d" />
-<p1> ROTAS </P1>
+
+<strong><P1>ROTAS</P1></strong><br><BR>
 <img width="1253" height="671" alt="image" src="https://github.com/user-attachments/assets/c66bb76c-7778-4ebd-b7ff-ea6154c7a295" />
-<P1> MIDDLEWARE CONTROLANDO AS ROTAS </P1>
+
+<strong><P1>MIDDLEWARE CONTROLANDO AS ROTAS</P1></strong><br><BR>
 <img width="1302" height="669" alt="image" src="https://github.com/user-attachments/assets/e504c9b5-5abb-4368-a0dd-6a01b823691f" />
 
-<P2>FUNCIONAMENTO DO SITE </P2>
+<strong><P1>FUNCIONAMENTO DO CRUD</P1></strong><br><BR>
 <img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/51cfec03-c877-4056-928f-e6c3658da9e7" /><img width="1338" height="671" alt="image" src="https://github.com/user-attachments/assets/faa33ab1-501f-42a5-a07b-cf6201e0824d" />
 <img width="1352" height="657" alt="image" src="https://github.com/user-attachments/assets/e74f9b52-bd66-42cd-887d-4695d12413c5" />
 <img width="1336" height="659" alt="image" src="https://github.com/user-attachments/assets/65e903e3-faea-4e84-ac3e-1c982dd31475" />
