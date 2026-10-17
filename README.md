@@ -15,7 +15,8 @@
 
 <strong><P1>AUTENTICANDO O USUÁRIO NO SITE</P1></strong><br><BR>
 <img width="1336" height="659" alt="image" src="https://github.com/user-attachments/assets/65e903e3-faea-4e84-ac3e-1c982dd31475" />
-<img width="1347" height="588" alt="image" src="https://github.com/user-attachments/assets/cc91ac3c-c060-4156-9f36-a284db7df9b4" />
+
+<img width="1332" height="590" alt="image" src="https://github.com/user-attachments/assets/d49a418f-0f6b-4796-a2ca-466b9160a293" />
 
 
 
