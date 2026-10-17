@@ -13,4 +13,6 @@
 <strong><P1>CADASTRAR USUÁRIO NO BANCO DE DADOS</P1></strong><br><BR>
 <img width="1352" height="657" alt="image" src="https://github.com/user-attachments/assets/e74f9b52-bd66-42cd-887d-4695d12413c5" />
 
+<strong><P1>AUTENTICANDO O USUÁRIO NO SITE</P1></strong><br><BR>
+<img width="1226" height="646" alt="image" src="https://github.com/user-attachments/assets/8277c279-c333-4856-a027-a1072b306170" />
 
