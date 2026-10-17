@@ -15,10 +15,10 @@
 
 <strong><P1>AUTENTICANDO O USUÁRIO NO SITE</P1></strong><br><BR>
 <img width="1336" height="659" alt="image" src="https://github.com/user-attachments/assets/65e903e3-faea-4e84-ac3e-1c982dd31475" />
-
-
-<img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/51cfec03-c877-4056-928f-e6c3658da9e7" /><img width="1338" height="671" alt="image" src="https://github.com/user-attachments/assets/faa33ab1-501f-42a5-a07b-cf6201e0824d" />
 <img width="1226" height="646" alt="image" src="https://github.com/user-attachments/assets/8277c279-c333-4856-a027-a1072b306170" />
+
+
+
 
 
 
